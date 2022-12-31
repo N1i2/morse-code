@@ -1,0 +1,5 @@
+﻿  morzo.cpp
+D:\лаба\ОПИ\morzo\morzo\morzo\morzo.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\лаба\ОПИ\morzo\morzo\morzo\morzo.cpp(81,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\лаба\ОПИ\morzo\morzo\morzo\morzo.cpp(167,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  morzo.vcxproj -> D:\лаба\ОПИ\morzo\morzo\x64\Debug\morzo.exe
